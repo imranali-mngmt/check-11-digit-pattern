@@ -96,9 +96,7 @@ export function LoginPage({ onLogin }: LoginPageProps) {
           animate={{ scale: 1 }}
           transition={{ delay: 0.2, type: 'spring', stiffness: 200 }}
         >
-          <div className="w-20 h-20 bg-gradient-to-br from-blue-500 to-indigo-600 rounded-2xl flex items-center justify-center shadow-lg shadow-blue-500/30">
-            <Sparkles className="w-10 h-10 text-white" />
-          </div>
+         
         </motion.div>
 
         <div className="text-center mt-6 mb-8">
