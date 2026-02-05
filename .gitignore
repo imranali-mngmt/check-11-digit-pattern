@@ -1,0 +1,18 @@
+# OS Specific
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# Environment/Secrets
+.env
+.env.local
+
+# Dependency Folders
+node_modules/
+__pycache__/
+venv/
+target/
